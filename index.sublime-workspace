@@ -1,0 +1,437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"initial"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"sty",
+				"list-style"
+			],
+			[
+				"bo",
+				"background"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"hero",
+				"heromodel-picture"
+			],
+			[
+				"lo",
+				"col-lg-12"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"baclk",
+				"background-color"
+			],
+			[
+				"col-lg-",
+				"col-lg-12"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"col-lg",
+				"col-lg-6"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"ind",
+				"z-index"
+			],
+			[
+				"col-",
+				"col-lg-6"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"fel",
+				"flex-direction"
+			],
+			[
+				"flex",
+				"flex-flow"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"light",
+				"lightsalmon"
+			],
+			[
+				"li",
+				"lightcyan"
+			],
+			[
+				"be",
+				"beige"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"inline",
+				"border-inline"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"ligh",
+				"lightsalmon"
+			],
+			[
+				"rev",
+				"relative"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"text-d",
+				"text-decoration-thickness"
+			],
+			[
+				"dar",
+				"darkcyan"
+			],
+			[
+				"font-c",
+				"font-variant-numeric"
+			],
+			[
+				"e",
+				"common-ligatures"
+			],
+			[
+				"txt",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bx",
+				"box-sizing"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"leve",
+				"lavenderblush"
+			],
+			[
+				"botto",
+				"bottom"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bnac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/88016/Desktop/modest PSD/index.html",
+		"/C/Users/88016/Desktop/potfolio/index.html",
+		"/C/Users/88016/Desktop/potfolio/css/style.css",
+		"/C/Users/88016/Desktop/potfolio/contact.html",
+		"/C/Users/88016/Desktop/potfolio/about.html",
+		"/C/Users/88016/Desktop/potfolio/projects.html",
+		"/C/Users/88016/Desktop/potfolio/plugins/fontAwesome/fontawesome.min.css",
+		"/C/Users/88016/Desktop/potfolio/img/projectpart1.png",
+		"/C/Users/88016/Desktop/project5/asset/index.html",
+		"/C/Users/88016/Desktop/potfolio/js/jquery.js",
+		"/C/Users/88016/Desktop/potfolio/plugins/css/bootstrap.min.css",
+		"/C/Users/88016/Desktop/potfolio/plugins/js/bootstrap.min.js",
+		"/C/Users/88016/Desktop/project5/asset/css/style.css",
+		"/C/Users/88016/Desktop/project5/asset/img/herovector.png",
+		"/C/Users/88016/Desktop/project5/asset/plugins/bootstrap/css/bootstrap.min.css",
+		"/C/Users/88016/Desktop/project5/asset/js/jquery.js",
+		"/C/Users/88016/Desktop/project5.1/index.html",
+		"/C/Users/88016/Desktop/project5.1/assets/plugins/bootstrap/css/bootstrap.min.css",
+		"/C/Users/88016/Desktop/project5.1/assets/plugins/bootstrap/js/bootstrap.min.js",
+		"/C/Users/88016/Desktop/project5/asset/plugins/bootstrap/js/bootstrap.min.js",
+		"/C/Users/88016/Desktop/project5.1/assets/css/style.css",
+		"/C/Users/88016/Desktop/project5/asset/img/different.png",
+		"/C/Users/88016/Desktop/project3/css/advance.css",
+		"/C/Users/88016/Desktop/project4/css/style.css",
+		"/C/Users/88016/Desktop/project5/asset/plugins/bootstrap.html",
+		"/C/Users/88016/Desktop/project4/index.html",
+		"/C/Users/88016/Desktop/project3/homepage.html",
+		"/C/Users/88016/Desktop/project3/css/style.css",
+		"/C/Users/88016/Desktop/project3/index.html",
+		"/C/Users/88016/Desktop/project2/index.html",
+		"/C/Users/88016/Desktop/project2/css/style.css",
+		"/C/Users/88016/Desktop/project1/css/style.css",
+		"/C/Users/88016/Desktop/project1/index.html",
+		"/D/project1/index.html",
+		"/D/project1/css/style.css"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 51.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
